@@ -17,5 +17,8 @@ matplotlib graphviz
 3. Applied on different thechnique
     * Association rule:
     * Decision Tree
+    * Random Forest
     * Cluster
+        * Hierarchical clustering
+        * K-means
     * PCA
